@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidCalalang
-- 👀 I’m interested in data analysis and data management
+- 👀 I’m interested in topics such as machine learning, data analysis and API implementations.
 - 🌱 I’m currently studying Computer Science at Purdue University
-- 📫 How to reach me, @calalang.david@gmail.com
+- 📫 How to reach me, @dcalalan@purdue.edu
 
 <!---
 DavidCalalang/DavidCalalang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
