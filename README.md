@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidCalalang
-- 👀 I’m interested in topics such as machine learning, data analysis and API implementations.
+- 👀 I’m interested in topics such as machine learning, data analysis and cloud technologies.
 - 🌱 I’m currently studying Computer Science at Purdue University
 - 📫 How to reach me, @dcalalan@purdue.edu
 
